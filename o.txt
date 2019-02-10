@@ -1,0 +1,17 @@
+Factoriazation of 1230 = 2*3*5*41
+Factoriazation of 3450 = 2*5*5*3*23
+Factoriazation of 1111 = 11*101
+Factoriazation of 2222 = 2*11*101
+Factoriazation of 33333 = 3*41*271
+Factoriazation of 16515615615615144 = 2*2*2*7*3*3*626627*1319*41*967
+Factoriazation of 615615111111 = 11*13*11*3*7*18636367
+Factoriazation of 455615 = 311*5*293
+Factoriazation of 51 = 3*17
+Factoriazation of 115 = 5*23
+Factoriazation of 1651651 = 19*86929
+Factoriazation of 6516514 = 2*823*37*107
+Factoriazation of 12 = 2*2*3
+Factoriazation of 1651 = 13*127
+Factoriazation of 151 = 151
+Factoriazation of 516 = 2*2*3*43
+Factoriazation of 51651 = 3*3*3*1913*3*3*3*1913
